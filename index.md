@@ -7,20 +7,20 @@
 Hi, this is Yuyuan Lin, a current master student in chronic diseases epidemiology at Yale University. Welcome to my personal website! If you are interested in my experience, feel free to contact me using the following information:
 
 <!--- Contact me -->
-* :telephone_receiver: Cell (US): **+1 (203)-390-8031** (also work for iMessage & FaceTime)
-* :telephone_receiver: Cell (CN): **+86 150-6128-8602** (also work for WeChat)
-* :email: E-mail: **yuyuan.lin@yale.edu**
+* Cell (US): **+1 (203)-390-8031** (also work for iMessage & FaceTime)
+* Cell (CN): **+86 150-6128-8602** (also work for WeChat)
+* E-mail: **yuyuan.lin@yale.edu**
 
 ****
 <!--- My resume -->
 A bit more about myself:
 ## Education Background
 
-#### :mortar_board: Yale University, School of Publich Health; Hew Haven, CT, USA
+#### Yale University, School of Publich Health; Hew Haven, CT, USA
 * From 2019 to Present
 * Master of Public Health (MPH), major in Chronic Diseases Epidemiology
 
-#### :mortar_board: Shanghai Jiao Tong University, School of Medicine; Shanghai, China
+#### Shanghai Jiao Tong University, School of Medicine; Shanghai, China
 * From 2014 to 2019
 * Medical Degree, major in Preventive Medicine, Graduate of Merit (Shanghai)
 
