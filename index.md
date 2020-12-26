@@ -1,6 +1,7 @@
 <!--- Photo --> 
-![my portait](https://github.com/yuyuan-lin/yuyuan-lin.github.io/blob/master/materials/portrait.JPG)
-
+<div align="center">
+<img src = "materials/portrait.JPG", class="img-responsive", width=600>
+</div>
 
 <!--- Greeting -->
 Hi, this is Yuyuan Lin, a current master student in chronic diseases epidemiology at Yale University. Welcome to my personal website! If you are interested in my experience, feel free to contact me using the following information:
