@@ -1,7 +1,6 @@
 <!--- Photo --> 
-<div>
-<img src="https://github.com/yuyuan-lin/yuyuan-lin.github.io/blob/master/materials/portrait.JPG"  width="600" align="middle" />
-</div>
+![my portait](https://github.com/yuyuan-lin/yuyuan-lin.github.io/blob/master/materials/portrait.JPG)
+
 
 <!--- Greeting -->
 Hi, this is Yuyuan Lin, a current master student in chronic diseases epidemiology at Yale University. Welcome to my personal website! If you are interested in my experience, feel free to contact me using the following information:
@@ -88,4 +87,4 @@ A bit more about myself:
 ****
 
 <!--- Download My Resume -->
-My resume (in both Chinese and English) can be downloaded from the following link: [简体中文简历](https://github.com/yuyuan-lin/yuyuan-lin.github.io/blob/master/materials/YuyuanLin_resume_CN.pdf) [English CV](https://github.com/yuyuan-lin/yuyuan-lin.github.io/blob/master/materials/yuyuan_cv.pdf)
+My resume (in both Chinese and English) can be downloaded from the following link: [简体中文简历](https://github.com/yuyuan-lin/yuyuan-lin.github.io/blob/master/materials/YuyuanLin_resume_CN.pdf), [English CV](https://github.com/yuyuan-lin/yuyuan-lin.github.io/blob/master/materials/yuyuan_cv.pdf)
