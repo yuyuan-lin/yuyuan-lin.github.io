@@ -4,20 +4,25 @@
 </div>
 
 <!--- Greeting -->
-Hi, this is Yuyuan Lin, a current master student in chronic diseases epidemiology at Yale University. Welcome to my personal website! If you are interested in my experience, feel free to contact me using the following information:
+Hi, this is Yuyuan Lin, a current Ph.D. student in epidemiology at UCLA. Welcome to my personal website! If you are interested in my experience, feel free to contact me using the following information:
 
 <!--- Contact me -->
 * Cell (US): **+1 (203)-390-8031** (also work for iMessage & FaceTime)
 * Cell (CN): **+86 150-6128-8602** (also work for WeChat)
-* E-mail: **yuyuan.lin@yale.edu**
+* E-mail: **yuyuanlin@ucla.edu**
 
 ****
 <!--- My resume -->
 A bit more about myself:
 ## Education Background
 
+#### UCLA, Fielding School of Public Health; Los Angeles, CA, USA
+* From 2021 to Present
+* Ph.D. student in Epidemiology
+
+
 #### Yale University, School of Publich Health; Hew Haven, CT, USA
-* From 2019 to Present
+* From 2019 to 2021
 * Master of Public Health (MPH), major in Chronic Diseases Epidemiology
 
 #### Shanghai Jiao Tong University, School of Medicine; Shanghai, China
