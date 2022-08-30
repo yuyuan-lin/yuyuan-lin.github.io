@@ -1,6 +1,6 @@
 <!--- Photo --> 
 <div align="center">
-<img src = "materials/portrait.JPG" class="img-responsive" width=600>
+<img src = "materials/portrait_v2.jpeg" class="img-responsive" width=600>
 </div>
 
 <!--- Greeting -->
